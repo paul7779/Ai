@@ -1,0 +1,50 @@
+
+body {
+    background-color: maroon;
+}
+.wrapper{
+    padding: 70px;
+}
+.inner {
+    background-color: white;
+}
+.lo {
+    background-color: grey;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin: 20px;
+    height: 200px;
+}
+.lo img {
+    width: 150px;
+    float: left;
+    /* position: absolute; */
+}
+.lo img{
+    margin-left: 10px;
+    margin-top: 40px;
+    width: 100%;
+    
+}
+.head{
+    color: black;
+    font-family: 'Abril Fatface', cursive;
+    font-size: 70px;
+}
+.lo h1 {
+    text-align: center;
+    color: white;
+    size: 100px;
+    
+}
+.row{
+    padding: 20px;
+}
+form{
+    border: 2px solid black;
+    padding: 15px;
+}
+h2{
+    background-color: blue;
+    text-align: center;
+}
